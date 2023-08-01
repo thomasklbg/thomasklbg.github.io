@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas Kleine Buening"
+title                    : "Thomas Kleine Büning"
 title_separator          : "-"
-name                     : &name "Thomas Kleine Buening"
+name                     : &name "Thomas Kleine Büning"
 description              : &description "personal description"
 url                      : https://thomasklbg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Kleine Buening"
+  name             : "Thomas Kleine Büning"
   avatar           : "Picture.jpg"
   bio              : "PhD Student"
   location         : "Oslo, Norway"
