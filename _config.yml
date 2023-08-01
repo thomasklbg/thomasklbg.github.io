@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas"
+title                    : "Thomas Kleine Büning"
 title_separator          : "-"
 name                     : &name "Thomas Kleine Büning"
 description              : &description "personal description"
