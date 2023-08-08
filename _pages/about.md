@@ -20,7 +20,8 @@ Feel free to reach out if you'd like to chat about these or any related topics.
 <br/>
 
 
-**Selected Publications**
+Selected Publications
+====
 
 [Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c)\   
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/)\ 
