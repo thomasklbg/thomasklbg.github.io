@@ -21,14 +21,15 @@ Feel free to reach out if you'd like to chat about these or any related topics.
 
 **Selected Publications**
 
-[Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c) 
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/)
+[Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c)    
+Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/)   
 Interactive Learning Workshop at NeurIPS 2023, working paper 
 
-[An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits](https://arxiv.org/abs/2210.14322)
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/)
+[An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits](https://arxiv.org/abs/2210.14322)  
+Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/)  
+
 AISTATS 2023
 
-[Interactive Inverse Reinforcement Learning for Cooperative Games](https://proceedings.mlr.press/v162/buning22a.html)
-Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis)
+[Interactive Inverse Reinforcement Learning for Cooperative Games](https://proceedings.mlr.press/v162/buning22a.html)  
+Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis)  
 ICML 2022, Best Paper Award at the Cooperative AI Workshop at NeurIPS 2021
