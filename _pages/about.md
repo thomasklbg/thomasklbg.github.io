@@ -20,7 +20,7 @@ Feel free to reach out if you'd like to chat about these or any related topics.
 <br/>
 
 
-Selected Publications
+Selected Work
 ====
 
 [Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c) <br />
