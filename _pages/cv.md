@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: http://thomasklbg.github.io/files/CV.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find me CV [here](http://thomasklbg.github.io/files/CV.pdf)
+Please find me CV <a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">here</a>. 
