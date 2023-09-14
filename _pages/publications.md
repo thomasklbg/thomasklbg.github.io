@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023 
 
-* [Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c) <br />
+* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://openreview.net/pdf?id=iIhXNqNh1c) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 Interactive Learning Workshop at NeurIPS 2023, working paper 
 
