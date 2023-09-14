@@ -35,3 +35,9 @@ AISTATS 2023
 * [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf) <br /> 
 Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
 ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI Workshop at NeurIPS 2021 
+
+
+
+<br/>
+
+
