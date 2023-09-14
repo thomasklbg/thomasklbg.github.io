@@ -25,9 +25,9 @@ Human in the Loop Learning Workshop (NeurIPS 2022)
 
 [Interactive Inverse Reinforcement Learning for Cooperative Games](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf) <br /> 
 Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-ICML 2022, $$\color{red}{Best Paper Award}$$ at the Cooperative AI Workshop at NeurIPS 2021 
+ICML 2022, Best Paper Award at the Cooperative AI Workshop at NeurIPS 2021 
 
 
 [On Meritocracy in Optimal Set Selection](https://arxiv.org/pdf/2102.11932.pdf)
 Thomas Kleine Buening, [Meirav Segal[(https://scholar.google.com/citations?user=-4VS11cAAAAJ&hl=en), [Debabrota Basu](https://debabrota-basu.github.io/), [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-EAAMO 2022, $$\color{red}{Best Student Paper Award}$$
+EAAMO 2022, ```diff - Best Student Paper Award ```
