@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2023 
+## 2023 
 
 * [Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation](https://openreview.net/pdf?id=iIhXNqNh1c) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 Interactive Learning Workshop at NeurIPS 2023, working paper 
 
 * [Minimax-Bayes Reinforcement Learning](https://arxiv.org/pdf/2302.10831.pdf) <br /> 
-Thomas Kleine Buening*, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en)*, [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en)*, [Emilio Jorge](https://jorge.se/)* <br /> 
+Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge](https://jorge.se/) (equal contr.) <br /> 
 AISTATS 2023
 
 * [An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits](https://arxiv.org/abs/2210.14322) <br /> 
@@ -20,7 +20,7 @@ Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
 AISTATS 2023
 
 
-# 2022
+## 2022
 
 * [Environment Design for Inverse Reinforcement Learning](https://arxiv.org/pdf/2210.14972.pdf) <br /> 
 Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
