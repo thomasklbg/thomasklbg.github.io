@@ -30,4 +30,4 @@ ICML 2022, $$\color{red}{Best Paper Award}$$ at the Cooperative AI Workshop at N
 
 [On Meritocracy in Optimal Set Selection](https://arxiv.org/pdf/2102.11932.pdf)
 Thomas Kleine Buening, [Meirav Segal[(https://scholar.google.com/citations?user=-4VS11cAAAAJ&hl=en), [Debabrota Basu](https://debabrota-basu.github.io/), [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-EAAMO 2022, $$\color{red}{Best Student Paper Award}
+EAAMO 2022, $$\color{red}{Best Student Paper Award}$$
