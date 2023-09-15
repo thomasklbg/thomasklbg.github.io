@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find me CV <a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">here</a>. 
+Please find my CV <a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">here</a>. 
