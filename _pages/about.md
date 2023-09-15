@@ -41,4 +41,3 @@ ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI
 <br/>
 
 
-My last name is originally written with the German umlaut "ü". However, for convenience "ue" instead of "ü" works just fine. 
