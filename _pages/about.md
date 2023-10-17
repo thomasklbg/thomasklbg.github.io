@@ -22,7 +22,7 @@ Feel free to reach out if you'd like to chat about these or any related topics.
 Selected Publications
 ====
 
-* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://openreview.net/pdf?id=iIhXNqNh1c) <br />
+* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](http://thomasklbg.github.io/files/Mechanism Design for Bandits Preprint.pdf) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 Interactive Learning Workshop (ICML 2023), working paper 
 
