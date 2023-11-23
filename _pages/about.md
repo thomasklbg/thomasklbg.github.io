@@ -24,7 +24,7 @@ Selected Publications
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](http://thomasklbg.github.io/files/Mechanism Design for Bandits Preprint.pdf) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-Interactive Learning Workshop (ICML 2023), working paper 
+Interactive Learning Workshop (ICML 2023), in submission 
 
 
 * [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/abs/2210.14322) <br /> 
