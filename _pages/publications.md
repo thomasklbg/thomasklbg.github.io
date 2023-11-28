@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Preprints [**(Google Scholar)**](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
@@ -34,3 +34,9 @@ ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI
 * [**On Meritocracy in Optimal Set Selection**](https://arxiv.org/pdf/2102.11932.pdf) <br /> 
 Thomas Kleine Buening, [Meirav Segal](https://scholar.google.com/citations?user=-4VS11cAAAAJ&hl=en), [Debabrota Basu](https://debabrota-basu.github.io/), [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
 EAAMO 2022,  <span style="color:red">Best Student Paper Award</span>
+
+
+
+<br />
+
+[**(Google Scholar)**](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)
