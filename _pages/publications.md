@@ -7,9 +7,9 @@ author_profile: true
 
 ## 2023 
 
-* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](http://thomasklbg.github.io/files/Mechanism Design for Bandits Preprint.pdf) <br />
+* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-Interactive Learning Workshop (ICML 2023), in submission
+preprint
 
 * [**Minimax-Bayes Reinforcement Learning**](https://arxiv.org/pdf/2302.10831.pdf) <br /> 
 Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge](https://jorge.se/) (equal contr.) <br /> 
@@ -24,7 +24,7 @@ AISTATS 2023
 
 * [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972.pdf) <br /> 
 Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-Human in the Loop Learning Workshop (NeurIPS 2022)  
+Presented at the Human in the Loop Learning Workshop (NeurIPS 2022)  
 
 * [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf) <br /> 
 Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
