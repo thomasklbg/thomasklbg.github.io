@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Preprints"
+title: "Publications and Preprints [**(Google Scholar)**](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)"
 permalink: /publications/
 author_profile: true
 ---
