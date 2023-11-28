@@ -9,7 +9,7 @@ author_profile: true
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-preprint, Presented at the Interactive Learning Workshop (ICML 2023)
+Presented at the Interactive Learning Workshop (ICML 2023), preprint
 
 * [**Minimax-Bayes Reinforcement Learning**](https://arxiv.org/pdf/2302.10831.pdf) <br /> 
 Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge](https://jorge.se/) (equal contr.) <br /> 
