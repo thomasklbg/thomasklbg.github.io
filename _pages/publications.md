@@ -15,7 +15,7 @@ Presented at the Interactive Learning Workshop (ICML 2023), preprint
 Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge](https://jorge.se/) (equal contr.) <br /> 
 AISTATS 2023
 
-* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/abs/2210.14322) <br /> 
+* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf) <br /> 
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
 AISTATS 2023
 

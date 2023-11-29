@@ -27,7 +27,7 @@ Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos D
 Presented at the Interactive Learning Workshop (ICML 2023), preprint
 
 
-* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/abs/2210.14322) <br /> 
+* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf) <br /> 
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
 AISTATS 2023
 
