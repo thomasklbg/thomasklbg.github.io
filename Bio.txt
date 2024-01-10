@@ -1,0 +1,4 @@
+
+I'm currently Postdoc (Research Associate) at the Alan Turing Institute and the University of Oxford, working with Marta Kwiatkowska (Oxford) and Lukasz Szpruch (Edinburgh). I did my PhD at the University of Oslo (Norway) under the supervision of Christos Dimitrakakis and completed my BSc and MSc in Mathematics at the University of Münster (Germany) and the University of British Columbia (Canada). 
+
+My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I’m particularly interested in their combination (e.g., learning in games, online mechanism design). At the moment, I'm also working on certifiable robustness and ... with the goal of designing ... Feel free to reach out if you’d like to chat about these or any related topics. 
