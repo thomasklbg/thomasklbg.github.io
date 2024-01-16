@@ -1,5 +1,5 @@
 
-I'm currently Research Associate at The Alan Turing Institute and Associate Member of the Department of Computer Science at the University of Oxford, advised by Marta Kwiatkowska (Oxford) and Lukasz Szpruch (Edinburgh). I did my PhD at the University of Oslo, supervised by Christos Dimitrakakis (Neuchatel) (yet to defend though).  
+I'm currently a Research Associate at The Alan Turing Institute and an Associate Member of the Department of Computer Science at the University of Oxford, advised by Marta Kwiatkowska (Oxford) and Lukasz Szpruch (Edinburgh). I did my PhD at the University of Oslo, supervised by Christos Dimitrakakis (Neuchatel) (yet to defend though).  
 
 My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I’m particularly interested in their combination (e.g., learning in games, online mechanism design). At the moment, I'm also thinking about certifiable robustness in connection with these topics. and exploring various aspects of certifiability and verification. Feel free to reach out if you’d like to chat about these or any related topics (....@...).  
 
