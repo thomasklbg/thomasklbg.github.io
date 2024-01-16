@@ -9,7 +9,10 @@ redirect_from:
 
 
 I'm a PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
+
+<!---
 Before, I studied Mathematics at the University of Münster and the University of British Columbia where I was advised by [Gerold Alsmeyer](https://www.uni-muenster.de/Stochastik/en/Arbeitsgruppen/Alsmeyer/index.shtml), [Zakhar Kabluchko](https://scholar.google.com/citations?user=ZYBsQucAAAAJ&hl=en), and [Ed Perkins](https://personal.math.ubc.ca/~perkins/perkins.html). 
+-->
 
 My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm particularly interested in their combination (e.g., learning in games, online mechanism design). 
 Feel free to reach out if you'd like to chat about these or any related topics. 
