@@ -9,7 +9,7 @@ author_profile: true
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf) <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-ICLR 2024 (<span style="color:red">spotlight, 5%</span>)
+ICLR 2024 (<span style="color:red">spotlight</span>)
 
 ## 2023 
 
