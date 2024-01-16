@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a third year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
+I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
 <!---
 Before, I studied Mathematics at the University of Münster and the University of British Columbia where I was advised by [Gerold Alsmeyer](https://www.uni-muenster.de/Stochastik/en/Arbeitsgruppen/Alsmeyer/index.shtml), [Zakhar Kabluchko](https://scholar.google.com/citations?user=ZYBsQucAAAAJ&hl=en), and [Ed Perkins](https://personal.math.ubc.ca/~perkins/perkins.html). 
 -->
