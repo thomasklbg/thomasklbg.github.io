@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+[*(Google Scholar)*](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)
+
 ## 2024 
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf) <br />
@@ -40,5 +43,3 @@ EAAMO 2022,  <span style="color:red">Best Student Paper Award</span>
 
 
 <br />
-
-[**(Google Scholar)**](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)
