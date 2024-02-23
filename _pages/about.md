@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## About Me 	
+
 
 I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
 My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm especially interested in problems connecting these two areas (e.g., learning in games and incentive-aware learning). 
