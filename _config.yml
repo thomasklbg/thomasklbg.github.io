@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Thomas Kleine Bueing"
+title                    : "Thomas Kleine Buening"
 locale                   : "en-US"
 title_separator          : "-"
 name                     : &name "Thomas Kleine Buening"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Kleine Büning"
+  name             : "Thomas Kleine Buening"
   avatar           : "Picture.jpg"
   bio              : "PhD Student"
   location         : "Oslo, Norway"
