@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thomas Kleine Buening"
+  name             : 
   avatar           : "Picture.jpg"
   bio              : "PhD Student"
   location         : "Oslo, Norway"
