@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
 
-My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm especially interested in problems connecting these two areas (e.g., learning in games and incentive-aware learning). 
+My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and incentive-aware learning. 
 <!---
 I'm currently a Research Associate at The Alan Turing Institute and an Associate Member of the Department of Computer Science at the University of Oxford, advised by Marta Kwiatkowska and Lukasz Szpruch.  
 I did my PhD at the University of Oslo, supervised by Christos Dimitrakakis (yet to defend). Before that I studied Mathematics at the University of Münster and the University of British Columbia. 
