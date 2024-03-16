@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
+Since March 2024, I'm a Research Associate (postdoc) at The Alan Turing Institute and an Associate Member of the Department of Computer Science at the University of Oxford, advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate) and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/).  
+I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) (yet to defend). Before that I studied Mathematics the University of Münster and the University of British Columbia. 
 
-My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and incentive-aware learning. 
+
+My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and mechanism design under uncertainty.  
 <!---
-I'm currently a Research Associate at The Alan Turing Institute and an Associate Member of the Department of Computer Science at the University of Oxford, advised by Marta Kwiatkowska and Lukasz Szpruch.  
-I did my PhD at the University of Oslo, supervised by Christos Dimitrakakis (yet to defend). Before that I studied Mathematics at the University of Münster and the University of British Columbia. 
-My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm especially interested in problems connecting these two areas (e.g., learning in games and incentive-aware learning). Feel free to reach out if you'd like to chat about these or any related topics. 
+I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
+My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm especially interested in problems connecting these two areas (e.g., learning in games and incentive-aware learning). 
 -->
 
 
