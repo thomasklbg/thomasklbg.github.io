@@ -82,9 +82,9 @@ analytics:
 author:
   name             : 
   avatar           : "Picture.jpg"
-  bio              : "Postdoctoral Research Associate, The Alan Turing Institute"
+  bio              : "Research Associate"
   location         : "Oxford, United Kingdom"
-  employer         :
+  employer         : "The Alan Turing Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works"
   email            : "tbuning@turing.ac.uk"
