@@ -13,7 +13,7 @@ I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](ht
 
 
 
-My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and mechanism design under uncertainty.  
+My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and online mechanism design under uncertainty.  
 <!---
 I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) (yet to defend). Prior to that I studied Mathematics the University of Münster and the University of British Columbia. 
 I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).

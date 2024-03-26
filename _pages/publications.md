@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-[*(Google Scholar)*](https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## 2024 
 
