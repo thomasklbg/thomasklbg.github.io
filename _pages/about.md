@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and Associate Member of the [Department of Computer Science]((https://www.cs.ox.ac.uk/)){:target="_blank"} at the [University of Oxford](https://www.ox.ac.uk/), advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/){:target="_blank"}. 
+I'm currently Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/), advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/){:target="_blank"}. 
 I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and previously studied Mathematics at the University of Münster.  
 
 
