@@ -22,6 +22,10 @@ My research interests broadly span topics in reinforcement learning and algorith
 
 
 
+## News 
+
+- We are organizing a workshop on [*Models of Human Feedback for AI Alignment*](https://sites.google.com/view/mhf-icml2024) at ICML 2024 in Vienna (July). Call for papers is coming out soon. 
+- March 2024: I've joined the Alan Turing Institute and moved to Oxford. Let me know if you're around that area (London/Oxford/UK) and would like to chat. 
 
 
 
