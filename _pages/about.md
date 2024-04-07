@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/) and Associate Member of the [Department of Computer Science]((https://www.cs.ox.ac.uk/)) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate) and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/). 
-I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) (yet to defend), and previously studied Mathematics at the University of Münster.  
+I'm currently Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and Associate Member of the [Department of Computer Science]((https://www.cs.ox.ac.uk/)){:target="_blank"} at the [University of Oxford](https://www.ox.ac.uk/), advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/){:target="_blank"}. 
+I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and previously studied Mathematics at the University of Münster.  
 
 
 
@@ -22,26 +22,26 @@ My research interests broadly span topics in reinforcement learning and algorith
 
 
 
-## News 
+### News 
 
 - We are organizing a workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} at [ICML 2024](https://icml.cc/) in Vienna. Call for papers is coming out soon. 
-- March 2024: I've joined the Alan Turing Institute and moved to Oxford. Let me know if you're in Oxford or close by and would like to chat / have lunch. 
+- March 2024: I've joined the Alan Turing Institute and moved to Oxford. Let me know if you're in Oxford or close by and would like to chat.  
 
 
 
-## Selected Publications 	
+### Selected Publications 	
 
-* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf) <br />
+* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"} <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 ICLR 2024 (<span style="color:red">spotlight</span>)
 
 
-* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf) <br /> 
+* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf){:target="_blank"} <br /> 
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
 AISTATS 2023
 
 
-* [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf) <br /> 
+* [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"} <br /> 
 Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
 ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI Workshop at NeurIPS 2021 
 
