@@ -10,12 +10,14 @@ author_profile: true
 ### 2024 
 
 * [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972.pdf){:target="_blank"} <br /> 
-Thomas Kleine Buening\*, [Victor Villin\*](https://scholar.google.com/citations?hl=en&user=A1g8314AAAAJ&view_op=list_works), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
+Thomas Kleine Buening\*, [Victor Villin$^*$](https://scholar.google.com/citations?hl=en&user=A1g8314AAAAJ&view_op=list_works), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
 ICML 2024 
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"} <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 ICLR 2024 (<span style="color:red">spotlight</span>)
+
+
 
 ### 2023 
 
@@ -26,6 +28,7 @@ AISTATS 2023
 * [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf) <br /> 
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
 AISTATS 2023
+
 
 
 ### 2022
