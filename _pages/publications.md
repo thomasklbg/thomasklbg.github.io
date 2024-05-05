@@ -21,7 +21,7 @@ ICLR 2024 (<span style="color:red">spotlight</span>)
 ### 2023 
 
 * [**Minimax-Bayes Reinforcement Learning**](https://arxiv.org/pdf/2302.10831.pdf){:target="_blank"} <br /> 
-Thomas Kleine Buening$^\star$, [Christos Dimitrakakis$^\star$](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson$^\star$](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge](https://jorge.se/) <br /> 
+Thomas Kleine Buening$^\star$, [Christos Dimitrakakis$^\star$](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson$^\star$](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover$^\star$](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge$^\star$](https://jorge.se/) <br /> 
 AISTATS 2023
 
 * [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf) <br /> 
@@ -45,4 +45,4 @@ EAAMO 2022,  <span style="color:red">Best Student Paper Award</span>
 
 <br />
 
-$^*$ denotes equal contribution 
+$^\star$ denotes equal contribution 
