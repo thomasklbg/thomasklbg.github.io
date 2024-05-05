@@ -9,6 +9,10 @@ author_profile: true
 
 ### 2024 
 
+* [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972.pdf){:target="_blank"} <br /> 
+Thomas Kleine Buening\*, [Victor Villin](https://scholar.google.com/citations?hl=en&user=A1g8314AAAAJ&view_op=list_works)\*, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
+ICML 2024 
+
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"} <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 ICLR 2024 (<span style="color:red">spotlight</span>)
@@ -26,9 +30,6 @@ AISTATS 2023
 
 ### 2022
 
-* [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972.pdf){:target="_blank"} <br /> 
-Thomas Kleine Buening, [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-Presented at the Human in the Loop Learning Workshop (NeurIPS 2022)  
 
 * [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"} <br /> 
 Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
@@ -42,3 +43,5 @@ EAAMO 2022,  <span style="color:red">Best Student Paper Award</span>
 
 
 <br />
+
+\* denotes equal contribution. 
