@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/). From 2021 to 2024, I did my PhD at the University of Oslo under the supervision of [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and previously studied Mathematics at the University of Münster.  
+I'm currently a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/). From 2021 to 2024, I did my PhD at the University of Oslo under the supervision of [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend) and previously studied Mathematics at the University of Münster.  
 
 
 
