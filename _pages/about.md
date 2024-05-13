@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/), advised by [Marta Kwiatkowska](https://scholar.google.co.uk/citations?hl=en&user=ArcH6PkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} and [Lukasz Szpruch](https://www.maths.ed.ac.uk/~lszpruch/){:target="_blank"}. 
-I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and previously studied Mathematics at the University of Münster.  
+I'm currently a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/). From 2021 to 2024, I did my PhD at the University of Oslo under the supervision of [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and previously studied Mathematics at the University of Münster.  
 
 
 
@@ -24,7 +23,7 @@ My research interests broadly span topics in reinforcement learning and algorith
 
 ### News 
 
-- We are organizing a workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} at [ICML 2024](https://icml.cc/) in Vienna this July. The [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) is out (submission deadline May 31)! 
+- We are organizing the [ICML 2024](https://icml.cc/) Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
 
 
 

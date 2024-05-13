@@ -45,4 +45,4 @@ EAAMO 2022,  <span style="color:red">Best Student Paper Award</span>
 
 <br />
 
-$^\star$ denotes equal contribution 
+$^\star$ equal contribution 
