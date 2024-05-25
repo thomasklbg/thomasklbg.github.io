@@ -43,5 +43,3 @@ ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI
 
 <br/>
 
-
-You can reach me via tbuening@turing.ac.uk or thomas.kleinebuening@cs.ox.ac.uk. 
