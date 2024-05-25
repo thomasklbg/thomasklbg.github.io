@@ -10,15 +10,12 @@ I'm a Postdoctoral Research Associate at [The Alan Turing Institute](https://www
 and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, 
 where I'm advised by [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
 [Lukasz Szpruch](https://scholar.google.com/citations?hl=en&user=ljeA6CMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. 
-Between 2021 and 2024, I did my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"}, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and have a background in maths (BSc, MSc).      
+Between 2021 and 2024, I did my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend), and have a background in maths (BSc, MSc).      
 
 
 
-
-
-My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and online mechanism design under uncertainty.  
-
-
+My research interests broadly span topics in reinforcement learning, including learning from bandit or preference feedback and inverse reinforcement learning. 
+At the moment, I'm particularly interested in problems at the intersection of RL and algorithmic game theory, such as online (approximate) mechanism design under uncertainty.  
 
 
 ### News 
