@@ -6,18 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/). From 2021 to 2024, I did my PhD at the University of Oslo under the supervision of [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend) and previously studied Mathematics at the University of Münster.  
 
-I'm currently a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.ox.ac.uk/). From 2021 to 2024, I did my PhD at the University of Oslo under the supervision of [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"} (yet to defend) and previously studied Mathematics at the University of Münster.  
 
 
 
 
 My research interests broadly span topics in reinforcement learning and algorithmic game theory. I'm especially interested in problems connecting these two areas such as learning in games and online mechanism design under uncertainty.  
-<!---
-I did my PhD at the University of Oslo, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) (yet to defend). Prior to that I studied Mathematics the University of Münster and the University of British Columbia. 
-I'm a third-year PhD student at the University of Oslo supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis).
-My research interests broadly span topics in reinforcement learning and algorithmic game theory, and I'm especially interested in problems connecting these two areas (e.g., learning in games and incentive-aware learning). 
--->
+
 
 
 
