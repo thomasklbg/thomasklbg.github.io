@@ -15,8 +15,7 @@ Between 2021 and 2024, I did my PhD at the [University of Oslo](https://www.mn.u
 
 
 My research interests broadly span topics in reinforcement learning, including learning from bandit or preference feedback and inverse reinforcement learning. 
-At the moment, I'm particularly interested in problems at the intersection of RL and algorithmic game theory, such as online mechanism design under uncertainty.  
-
+At the moment, I'm particularly interested in problems at the intersection of reinforcement learning and algorithmic game theory, such as incentive-aware online learning and approximate mechanism design. 
 
 ### News 
 
