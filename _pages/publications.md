@@ -10,7 +10,9 @@ author_profile: true
 ### 2024 
 
 
-
+* [**Strategic Linear Contextual Bandits**](xxxxxxx){:target="_blank"} <br />
+Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
+preprint 
 
 
 * [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} <br /> 
