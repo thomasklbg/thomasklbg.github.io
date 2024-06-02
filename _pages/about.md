@@ -21,23 +21,5 @@ My research interests lie in reinforcement learning and related topics. At the m
 
 
 
-### Selected Publications 	
-
-* [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"} <br />
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-ICLR 2024 (<span style="color:red">spotlight</span>)
-
-
-* [**An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits**](https://arxiv.org/pdf/2210.14322.pdf){:target="_blank"} <br /> 
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
-AISTATS 2023
-
-
-* [**Interactive Inverse Reinforcement Learning for Cooperative Games**](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"} <br /> 
-Thomas Kleine Buening, [Anne-Marie George](https://scholar.google.de/citations?user=uOuR7XgAAAAJ&hl=en), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-ICML 2022, <span style="color:red">Best Paper Award</span> at the Cooperative AI Workshop at NeurIPS 2021 
-
-
-
 <br/>
 
