@@ -17,8 +17,8 @@ My research interests lie in reinforcement learning and related topics. At the m
 
 ### News 
 
-- [May 2024]: We are organizing the [ICML 2024 Workshop](https://icml.cc/) on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
-- [April 2024]: I moved to Oxford and began my postdoc at The Alan Turing Institute.  
+- \[May 2024\]: We are organizing the [ICML 2024 Workshop](https://icml.cc/) on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
+- \[April 2024\]: I moved to Oxford and began my postdoc at The Alan Turing Institute.  
 
 
 
