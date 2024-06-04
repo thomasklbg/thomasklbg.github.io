@@ -17,11 +17,11 @@ preprint
 
 * [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} <br /> 
 Thomas Kleine Buening$^\star$, [Victor Villin$^\star$](https://scholar.google.com/citations?hl=en&user=A1g8314AAAAJ&view_op=list_works), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-ICML 2024 (<span style="color:red">Oral</span>)
+ICML 2024 <span style="color:red">(Oral)</span>
 
 * [**Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation**](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"} <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-ICLR 2024 (<span style="color:red">Spotlight</span>)
+ICLR 2024 <span style="color:red">(Spotlight)</span>
 
 
 ### 2023 
