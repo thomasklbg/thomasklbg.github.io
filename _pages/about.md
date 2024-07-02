@@ -15,12 +15,10 @@ Between 2021 and 2024, I did my PhD at the [University of Oslo](https://www.mn.u
 
 My research interests lie in reinforcement learning and related topics. At the moment, I'm especially interested in problems at the intersection of online learning and algorithmic game theory, such as incentive-aware online learning and approximate mechanism design. 
 
-### News 
+#### News 
 
-<span style="font-size:14px;">
 - \[June 2024\]: Our paper [Environment Design for Inverse Reinforcement Learning](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an oral presentation!     
 - \[May 2024\]: We are organizing the [ICML 2024 Workshop](https://icml.cc/) on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
-</span>
 
 
 ### Selected Publications 
@@ -39,5 +37,5 @@ Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos D
 ICLR 2024 <span style="color:red">(Spotlight)</span>
 
 
-<span style="font-size:14px;">You can reach me via tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</span>
+<span style="font-size:16px;">You can reach me via tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</span>
 
