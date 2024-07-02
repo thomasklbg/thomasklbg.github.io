@@ -37,5 +37,5 @@ Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos D
 ICLR 2024 <span style="color:red">(Spotlight)</span>
 
 
+<span style="font-size:10px;">You can reach me via tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</span>
 
-<sub>You can reach me via tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</sub> 
