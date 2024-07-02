@@ -9,7 +9,7 @@ redirect_from:
 I'm a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} 
 and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, where I'm advised by [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
 [Lukasz Szpruch](https://scholar.google.com/citations?hl=en&user=ljeA6CMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. 
-Between 2021 and 2024, I did my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied mathematics (BSc, MSc).      
+From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied mathematics (BSc, MSc).      
 
 
 
