@@ -13,7 +13,7 @@ From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn
 
 
 
-My research interests are in reinforcement learning and related topics. At the moment, I'm especially interested in problems at the intersection of online learning and algorithmic game theory, such as incentive-aware online learning and approximate mechanism design. 
+My research interests are in reinforcement learning and related topics. At the moment, I'm especially interested in problems at the intersection of online learning and algorithmic game theory, such as strategic manipulation and approximate mechanism design. 
 
 ### News 
 
