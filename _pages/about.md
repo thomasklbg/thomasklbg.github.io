@@ -24,16 +24,16 @@ My research interests are in reinforcement learning and related topics. At the m
 ### Selected Publications 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
+Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 working paper 
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
-Thomas Kleine Buening$^\star$, [Victor Villin$^\star$](https://scholar.google.com/citations?hl=en&user=A1g8314AAAAJ&view_op=list_works), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis) <br /> 
-**ICML 2024** <span style="color:red">(Oral, 1.5%)</span> 
+Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
+**ICML 2024** <span style="color:red">(Oral)</span> 
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
-Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-**ICLR 2024** <span style="color:red">(Spotlight, 5%)</span> 
+Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
+**ICLR 2024** <span style="color:red">(Spotlight)</span> 
 
 
 <span style="font-size:16px;">You can reach me at tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</span>

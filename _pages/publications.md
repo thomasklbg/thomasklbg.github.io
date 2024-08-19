@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### 2024 
+## 2024 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
@@ -24,7 +24,7 @@ Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 **ICLR 2024** <span style="color:red">(Spotlight, 5%)</span> 
 
 
-### 2023 
+## 2023 
 
 * **Minimax-Bayes Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2302.10831.pdf){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Christos Dimitrakakis$^\star$, Hannes Eriksson$^\star$, Divya Grover$^\star$, Emilio Jorge$^\star$ <br /> 
@@ -35,7 +35,7 @@ Thomas Kleine Buening, Aadirupa Saha <br />
 **AISTATS 2023**
 
 
-### 2022
+## 2022
 
 
 * **Interactive Inverse Reinforcement Learning for Cooperative Games** [[pdf](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"}] <br /> 
