@@ -12,7 +12,7 @@ author_profile: true
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-*Preprint*
+*Preprint.*
 
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
@@ -21,14 +21,14 @@ Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br 
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-*International Conference on Learning Representations (ICLR 2024)* <span style="color:red">(Spotlight, 5%)</span> 
+*International Conference on Learning Representations, ICLR 2024, <span style="color:red">(Spotlight, 5%)</span>*
 
 
 ## 2023 
 
 * **Minimax-Bayes Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2302.10831.pdf){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Christos Dimitrakakis$^\star$, Hannes Eriksson$^\star$, Divya Grover$^\star$, Emilio Jorge$^\star$ <br /> 
-AISTATS 2023
+*International Conference on Artificial Intelligence and Statistics AISTATS, 2023*
 
 * **An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits** [[pdf](https://arxiv.org/pdf/2210.14322.pdf)] <br /> 
 Thomas Kleine Buening, Aadirupa Saha <br />
