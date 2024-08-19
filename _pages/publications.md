@@ -28,7 +28,7 @@ Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 
 * **Minimax-Bayes Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2302.10831.pdf){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Christos Dimitrakakis$^\star$, Hannes Eriksson$^\star$, Divya Grover$^\star$, Emilio Jorge$^\star$ <br /> 
-*International Conference on Artificial Intelligence and Statistics (**AISTATS 2023**)*  
+*International Conference on Artificial Intelligence and Statistics **(AISTATS 2023)** *  
 
 * **An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits** [[pdf](https://arxiv.org/pdf/2210.14322.pdf)] <br /> 
 Thomas Kleine Buening, Aadirupa Saha <br />
