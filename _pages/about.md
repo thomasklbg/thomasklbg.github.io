@@ -35,7 +35,7 @@ Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br 
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-*International Conference on Learning Representations* ***ICLR 2024)****, <span style="color:red">Spotlight</span>*
+*International Conference on Learning Representations* ***(ICLR 2024)****, <span style="color:red">Spotlight</span>*
 
 
 
