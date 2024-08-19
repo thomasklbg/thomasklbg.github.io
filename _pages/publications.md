@@ -17,7 +17,7 @@ Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
-*International Conference on Machine Learning (***ICML 2024***), <span style="color:red">Oral (1.5%)</span>*
+*International Conference on Machine Learning (**ICML 2024**), <span style="color:red">Oral (1.5%)</span>*
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
@@ -46,7 +46,7 @@ Thomas Kleine Buening, Anne-Marie George, Christos Dimitrakakis <br />
 
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
  Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George, Christos Dimitrakakis <br /> 
-*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization,* ***EAAMO 2022*** <br \> 
+*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (**EAAMO 2022**)* <br /> 
 *<span style="color:red">Best Student Paper Award</span>*
 
 
