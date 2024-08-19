@@ -20,15 +20,15 @@ preprint
 ICML 2024 <span style="color:red">(Oral, 1.5%)</span> <\small>
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
-<sub>Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
-**ICLR 2024** <span style="color:red">(Spotlight, 5%)</span> <\sub>
+<sub><sup>Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
+**ICLR 2024** <span style="color:red">(Spotlight, 5%)</span> <\sup><\sub>
 
 
 ### 2023 
 
 * **Minimax-Bayes Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2302.10831.pdf){:target="_blank"}] <br /> 
-Thomas Kleine Buening$^\star$, [Christos Dimitrakakis$^\star$](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson$^\star$](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover$^\star$](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge$^\star$](https://jorge.se/) <br /> 
-**AISTATS 2023**
+#### Thomas Kleine Buening$^\star$, [Christos Dimitrakakis$^\star$](https://sites.google.com/site/christosdimitrakakis), [Hannes Eriksson$^\star$](https://scholar.google.se/citations?user=KyX9dfEAAAAJ&hl=en), [Divya Grover$^\star$](https://scholar.google.co.in/citations?user=0Gqji9cAAAAJ&hl=en), [Emilio Jorge$^\star$](https://jorge.se/) <br /> 
+#### **AISTATS 2023**
 
 * **An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits** [[pdf](https://arxiv.org/pdf/2210.14322.pdf)] <br /> 
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/) <br />
