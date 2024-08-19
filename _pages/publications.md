@@ -10,7 +10,7 @@ author_profile: true
 ### 2024 
 
 
-* [**Strategic Linear Contextual Bandits**](https://arxiv.org/pdf/2406.00551){:target="_blank"} <br />
+* **Strategic Linear Contextual Bandits**[[[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
 Thomas Kleine Buening, [Aadirupa Saha](https://aadirupa.github.io/), [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis), [Haifeng Xu](https://www.haifeng-xu.com/) <br />
 preprint 
 
