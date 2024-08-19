@@ -15,13 +15,13 @@ From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn
 
 My research interests are in reinforcement learning and related topics. At the moment, I'm especially interested in problems at the intersection of machine learning and algorithmic game theory, such as strategic manipulation and approximate mechanism design. 
 
-### News 
+## News 
 
 - **06/2024**: [Environment Design for Inverse Reinforcement Learning](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an Oral Presentation!     
 - **05/2024**: We are organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
 
 
-### Selected Publications 
+## Selected Publications 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
