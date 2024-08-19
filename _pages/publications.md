@@ -32,7 +32,7 @@ Thomas Kleine Buening$^\star$, Christos Dimitrakakis$^\star$, Hannes Eriksson$^\
 
 * **An Improved Dynamic Regret Algorithm for Adaptive Non-Stationary Dueling Bandits** [[pdf](https://arxiv.org/pdf/2210.14322.pdf)] <br /> 
 Thomas Kleine Buening, Aadirupa Saha <br />
-*International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*
+*International Conference on Artificial Intelligence and Statistics **AISTATS 2023**  *
 
 
 ## 2022
@@ -40,14 +40,14 @@ Thomas Kleine Buening, Aadirupa Saha <br />
 
 * **Interactive Inverse Reinforcement Learning for Cooperative Games** [[pdf](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"}] <br /> 
 Thomas Kleine Buening, Anne-Marie George, Christos Dimitrakakis <br /> 
-International Conference on Machine Learning (ICML 2022) <br /> 
-<span style="color:red">Best Paper Award</span> at the Cooperative AI Workshop (NeurIPS 2021) 
+*International Conference on Machine Learning (ICML 2022)* <br />
+*<span style="color:red">Best Paper Award</span> at the Cooperative AI Workshop (NeurIPS 2021)*
 
 
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
  Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George, Christos Dimitrakakis <br /> 
-ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2022) <br /> 
-<span style="color:red">Best Student Paper Award</span>
+*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2022)* <br /> 
+*<span style="color:red">Best Student Paper Award</span>*
 
 
 
