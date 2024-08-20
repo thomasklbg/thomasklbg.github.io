@@ -52,4 +52,4 @@ author_profile: true
 
 <br /> 
 
-$^\star$ equal contribution 
+$^\star$ denotes equal contribution 
