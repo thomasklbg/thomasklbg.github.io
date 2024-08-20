@@ -47,7 +47,7 @@ author_profile: true
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
  *Thomas Kleine Buening*, Meirav Segal, Debabrota Basu, Anne-Marie George, Christos Dimitrakakis <br /> 
 *ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2022)*   <br /> 
-*<span style="color:red">Best Student Paper</span>*
+*<span style="color:red">Best Student Paper Award</span>*
 
 
 <br /> 
