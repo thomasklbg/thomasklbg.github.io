@@ -41,13 +41,13 @@ author_profile: true
 * **Interactive Inverse Reinforcement Learning for Cooperative Games** [[pdf](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"}] <br /> 
 *Thomas Kleine Buening*, Anne-Marie George, Christos Dimitrakakis <br /> 
 *International Conference on Machine Learning (ICML 2022)*   <br />
-*<span style="color:red">Best Paper Award</span> at the [Cooperative AI Workshop NeurIPS 2021](https://www.cooperativeai.com/workshop/neurips-2021){:target:"_blank"}*
+*<span style="color:red">Best Paper Award</span> at the [Cooperative AI Workshop at NeurIPS 2021](https://www.cooperativeai.com/workshop/neurips-2021){:target:"_blank"}*
 
 
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
  *Thomas Kleine Buening*, Meirav Segal, Debabrota Basu, Anne-Marie George, Christos Dimitrakakis <br /> 
 *ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2022)*   <br /> 
-*<span style="color:red">Best Student Paper Award</span>*
+*<span style="color:red">Best Student Paper</span>*
 
 
 <br /> 
