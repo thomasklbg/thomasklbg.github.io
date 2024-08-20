@@ -21,7 +21,7 @@ My research interests are in reinforcement learning and related topics. At the m
 - **05/2024**: We are organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"} in Vienna this July. [Call for Papers](https://sites.google.com/view/mhf-icml2024/call-for-papers?authuser=0) - Submission Deadline May 31st!
 
 
-## Selected Publications 
+## Recent Work 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
