@@ -12,7 +12,7 @@ author_profile: true
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-*Neural Information Processing Systems (NeurIPS 2024) *
+*Neural Information Processing Systems (NeurIPS 2024)*
 
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
