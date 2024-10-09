@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">June 2024</a> 
+<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">October 2024</a> 
