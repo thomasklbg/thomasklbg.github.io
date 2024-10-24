@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">CV</a> "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">October 2024</a> 
+<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">CV.pdf</a> 
