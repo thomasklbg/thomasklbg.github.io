@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "<a href="http://thomasklbg.github.io/files/CV.pdf" target="_blank">CV</a> "
 permalink: /cv/
 author_profile: true
 redirect_from:
