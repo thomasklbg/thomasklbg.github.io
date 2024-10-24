@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thomasklbg"
+  twitter          : # "thomasklbg"
   vine             :
   weibo            :
   xing             :
@@ -215,8 +215,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
       comments: true
   # _publications
   - scope:
