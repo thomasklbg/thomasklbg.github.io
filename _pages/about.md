@@ -15,9 +15,10 @@ From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn
 
 My research interests are in reinforcement learning and related topics. At the moment, I'm especially interested in problems at the intersection of machine learning and algorithmic game theory, such as strategic manipulation and approximate mechanism design. 
 
+
 ## News 
 
-- **11/2024**: I'll visit the University of Chicago before NeurIPS to give a talk on Strategic Interactive Decision-Making on Dec 5. Let me know if you're around and want to meet :)
+- **11/2024**: I'll visit the University of Chicago before NeurIPS, where I'll give a talk on Strategic Interactive Decision-Making on Dec 5. Let me know if you're around and want to meet :)
 - **07/2024**: We're organizing the ICML 2024 Workshop on [**Models of Human Feedback for AI Alignment**](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [**here**](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
 - **06/2024**: [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an Oral Presentation!     
 
