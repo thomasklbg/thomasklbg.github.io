@@ -19,9 +19,9 @@ My research interests are in reinforcement learning and related topics. At the m
 ## News 
 
 - **12/2024**: I'll be at NeurIPS in Vancouver presenting [**recent work**](https://neurips.cc/virtual/2024/poster/94529){:target:"_blank"}. Let me know if you're around and want to meet up :)
-- **11/2024**: I'm visiting the University of Chicago before NeurIPS giving a talk on [**Strategic Interactive Decision-Making**](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5 (<a href="http://thomasklbg.github.io/files/UChicagoDec5.pdf" target="_blank">**Slides**</a>).  
+- **11/2024**: I'm visiting the University of Chicago before NeurIPS giving a talk on [**Strategic Interactive Decision-Making**](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5 (<a href="http://thomasklbg.github.io/files/UChicagoDec5.pdf" target="_blank">**slides**</a>).  
 - **07/2024**: We're organizing the ICML 2024 Workshop on [**Models of Human Feedback for AI Alignment**](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [**here**](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
-- **06/2024**: [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an *oral presentation*!      
+- **06/2024**: [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an oral presentation!      
 
 
 ## Selected Publications and Preprints  
