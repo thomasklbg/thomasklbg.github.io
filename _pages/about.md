@@ -42,5 +42,5 @@ Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 
 
 
-<span style="font-size:16px;">You can reach me at tbuen\*\*\*@turing.ac.uk or thomas.kleinebuen\*\*\*@cs.ox.ac.uk.</span>
+<span style="font-size:16px;">You can reach me at tbuening@turing.ac.uk or thomas.kleinebuening@cs.ox.ac.uk.</span>
 
