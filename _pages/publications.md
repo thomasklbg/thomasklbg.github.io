@@ -50,6 +50,4 @@ author_profile: true
 *<span style="color:red">Best Student Paper Award</span>*
 
 
-<br /> 
-
-$^\star$ denotes equal contribution 
+<span style="font-size:16px;">$^\star$ equal contribution</span>
