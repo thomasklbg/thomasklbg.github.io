@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I'm a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} 
-and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, where I'm advised by [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
+and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, where I'm mentored by [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
 [Lukasz Szpruch](https://scholar.google.com/citations?hl=en&user=ljeA6CMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. 
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
@@ -18,10 +18,10 @@ My research interests are in reinforcement learning and related topics. At the m
 
 ## News 
 
-- **12/2024**: At NeurIPS presenting [**recent work**](https://neurips.cc/virtual/2024/poster/94529). Let me know if you're around :)
-- **11/2024**: I'm visiting the University of Chicago giving a talk on [**Strategic Interactive Decision-Making**](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5.  
-- **07/2024**: We're organizing the ICML 2024 Workshop on [**Models of Human Feedback for AI Alignment**](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [**here**](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
-- **06/2024**: [**Environment Design for Inverse Reinforcement Learning**](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an oral presentation!      
+- **12/2024**: At NeurIPS presenting [recent work](https://neurips.cc/virtual/2024/poster/94529). Let me know if you're around :)
+- **11/2024**: I'm visiting the University of Chicago giving a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5.  
+- **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
+- **06/2024**: [Environment Design for Inverse Reinforcement Learning](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an oral presentation!      
 
 
 ## Selected Publications and Preprints  
