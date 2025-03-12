@@ -20,7 +20,7 @@ Daqian Shao, *Thomas Kleine Buening*, Marta Kwiatkowska <br />
 
 * **A Minimax Approach to Ad Hoc Teamwork** [[pdf](https://arxiv.org/pdf/2502.02377){:target="_blank"}] <br />
 Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
-*International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*
+*International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)*
 
 ## 2024 
 
