@@ -16,7 +16,7 @@ preprint
 
 * **A Unifying Framework for Causal Imitation Learning with Hidden Confounders** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, *Thomas Kleine Buening*, Marta Kwiatkowska <br />
-**SCSL Workshop at ICLR 2025**
+preprint, SCSL Workshop at ICLR 2025
 
 * **A Minimax Approach to Ad Hoc Teamwork** [[pdf](https://arxiv.org/pdf/2502.02377){:target="_blank"}] <br />
 Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
@@ -32,11 +32,13 @@ Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
 *Thomas Kleine Buening*$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
-**ICML 2024**, *<span style="color:red">Oral Presentation (1.5%)</span>*
+**ICML 2024**  <br />
+*<span style="color:red">Oral Presentation (1.5%)</span>*
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-**ICLR 2024**, *<span style="color:red">Spotlight Presentation (5%)</span>*
+**ICLR 2024** <br />
+*<span style="color:red">Spotlight Presentation (5%)</span>*
 
 
 ## 2023 
@@ -56,12 +58,14 @@ Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
 
 * **Interactive Inverse Reinforcement Learning for Cooperative Games** [[pdf](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"}] <br /> 
 *Thomas Kleine Buening*, Anne-Marie George, Christos Dimitrakakis <br /> 
-**ICML 2022**, *<span style="color:red">Best Paper Award</span> at the [Cooperative AI Workshop (NeurIPS 2021)](https://www.cooperativeai.com/workshop/neurips-2021){:target:"_blank"}*
+**ICML 2022** <br />
+ *<span style="color:red">Best Paper Award at the [Cooperative AI Workshop (NeurIPS 2021)</span>](https://www.cooperativeai.com/workshop/neurips-2021){:target:"_blank"}*
 
 
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
  *Thomas Kleine Buening*, Meirav Segal, Debabrota Basu, Anne-Marie George, Christos Dimitrakakis <br /> 
-**EEAMO 2022**, *<span style="color:red">Best Student Paper Award</span>*
+**EEAMO 2022** <br />
+*<span style="color:red">Best Student Paper Award</span>*
 
 
 <span style="font-size:16px;">$^\star$ equal contribution</span>
