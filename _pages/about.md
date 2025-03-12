@@ -18,7 +18,7 @@ My research interests are in reinforcement learning and related topics. At the m
 
 ## News 
 
-- **03/2025**: Three new (working) papers out on [Strategyproof RLHF](https://arxiv.org/pdf/2502.07656){:target="_blank"}, [Causal IL](https://arxiv.org/pdf/2502.07656){:target="_blank"}, [Multi-Agent Cooperative RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
+- **03/2025**: Three new preprints out on [Strategyproof RLHF](https://arxiv.org/pdf/2502.07656){:target="_blank"}, [Causal IL](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
 - **12/2024**: At NeurIPS presenting [recent work](https://neurips.cc/virtual/2024/poster/94529). Let me know if you're around :)
 - **11/2024**: I'm visiting the University of Chicago giving a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5.  
 - **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
@@ -28,8 +28,8 @@ My research interests are in reinforcement learning and related topics. At the m
 ## Selected Publications and Preprints  
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf]( ){:target="_blank"}] <br />
-*Thomas Kleine Buening*, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-working paper 
+Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
+preprint 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />

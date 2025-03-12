@@ -12,11 +12,11 @@ author_profile: true
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-working paper 
+preprint  
 
 * **A Unifying Framework for Causal Imitation Learning with Hidden Confounders** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, *Thomas Kleine Buening*, Marta Kwiatkowska <br />
-working paper, *SCSL Workshop at ICLR 2025*
+preprint, *SCSL Workshop at ICLR 2025*
 
 * **A Minimax Approach to Ad Hoc Teamwork** [[pdf](https://arxiv.org/pdf/2502.02377){:target="_blank"}] <br />
 Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
