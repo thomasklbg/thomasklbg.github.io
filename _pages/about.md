@@ -29,24 +29,22 @@ My research interests are in reinforcement learning and related topics. At the m
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf]( ){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-preprint 
+*preprint* 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-**NeurIPS 2024**
+*NeurIPS 2024*
 
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
-**ICML 2024** <br />
-*<span style="color:red">Oral Presentation</span>*
+*ICML 2024*, *<span style="color:red">Oral Presentation</span>*
 
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-**ICLR 2024**  <br /> 
-*<span style="color:red">Spotlight Presentation</span>*
+*ICLR 2024*, *<span style="color:red">Spotlight Presentation</span>*
 
 
 
