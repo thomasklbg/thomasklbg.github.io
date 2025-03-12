@@ -16,7 +16,7 @@ preprint
 
 * **A Unifying Framework for Causal Imitation Learning with Hidden Confounders** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, *Thomas Kleine Buening*, Marta Kwiatkowska <br />
-preprint, *SCSL Workshop at ICLR 2025*
+*SCSL Workshop at ICLR 2025*
 
 * **A Minimax Approach to Ad Hoc Teamwork** [[pdf](https://arxiv.org/pdf/2502.02377){:target="_blank"}] <br />
 Victor Villin, *Thomas Kleine Buening*, Christos Dimitrakakis <br />
