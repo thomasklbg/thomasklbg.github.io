@@ -21,4 +21,5 @@ main:
   
  
   - title: "CV"
-    url: /cv/
+    url: "http://thomasklbg.github.io/files/CV.pdf"
+    external: true  # Ensures it opens in a new tab
