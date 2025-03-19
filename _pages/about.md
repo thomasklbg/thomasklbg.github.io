@@ -20,9 +20,8 @@ My research interests are in reinforcement learning and related topics. At the m
 
 - **03/2025**: We released three new preprints on [Strategyproof RLHF](https://arxiv.org/pdf/2503.09561){:target="_blank"}, [Causal Imitation Learning](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
 - **12/2024**: At NeurIPS presenting [recent work](https://neurips.cc/virtual/2024/poster/94529). Let me know if you're around :)
-- **11/2024**: I'm visiting the University of Chicago giving a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5.  
+- **11/2024**: I'm visiting the University of Chicago, where I will give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5.  
 - **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
-- **06/2024**: [Environment Design for Inverse Reinforcement Learning](https://arxiv.org/pdf/2210.14972v3){:target="_blank"} has been accepted at ICML 2024 and selected for an oral presentation!      
 
 
 ## Selected Publications and Preprints  
