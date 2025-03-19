@@ -10,7 +10,7 @@ author_profile: true
 ## 2025 
 
 
-* **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](){:target="_blank"}] <br />
+* **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
 preprint 
 
