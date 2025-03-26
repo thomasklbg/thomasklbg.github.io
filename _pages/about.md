@@ -12,7 +12,7 @@ and an Associate Member of the Department of Computer Science at the [University
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
 
-My research interests are in reinforcement learning and related topics. Currently, this most notably includes RLHF and game-theoretic & mechanism design perspectives on machine learning. 
+My research interests are in reinforcement learning and related topics including RLHF, IRL/IL, preference learning, and game-theoretic perspectives on machine learning. 
 
 
 ## News 
