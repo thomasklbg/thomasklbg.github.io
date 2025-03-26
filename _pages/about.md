@@ -12,18 +12,18 @@ and an Associate Member of the Department of Computer Science at the [University
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
 
-My research interests are in **reinforcement learning** and related areas, including RLHF, preference learning, and the intersection of RL with game theory and mechanism design.
+My research interests are in reinforcement learning and related areas, including RLHF, preference learning, and the intersection of RL with game theory and mechanism design.
 
 
 ## News 
 
-- **04/2025**: The 2nd Workshop on Models of Human Feedback for AI Alignment will take place at ICML 2025 in July! This year a special focus will be the role of AI Feedback for AI Alignment. Please consider submitting your work ([Call for Papers](https://sites.google.com/view/mhf-icml2025/call-for-papers?authuser=0){:target="_blank"}).  
+- **04/2025**: The 2nd edition of last year's workshop on Models of Human Feedback for AI Alignment will take place at ICML 2025! This year a special focus will be the role of AI Feedback for AI Alignment. Please consider submitting your work ([Call for Papers](https://sites.google.com/view/mhf-icml2025/call-for-papers?authuser=0){:target="_blank"}).  
 - **03/2025**: We released three new preprints on [Strategyproof RLHF](https://arxiv.org/pdf/2503.09561){:target="_blank"}, [Causal Imitation Learning](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent Cooperative RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
 - **11/2024**: I'm visiting Haifeng Xu's group at the University of Chicago  before going to NeurIPS and will give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5 at the CS Department.  
 - **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
 
 
-## Selected Publications and Preprints  
+## Selected Publications  
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
