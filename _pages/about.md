@@ -12,7 +12,7 @@ and an Associate Member of the Department of Computer Science at the [University
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
 
-My research interests are in reinforcement learning and related areas, including reward learning, preference learning, and the intersection of machine learning with game theory and mechanism design.
+My research interests are in reinforcement learning and related areas, including reward learning, preference learning, and the intersection of ML with game theory and mechanism design.
 
 
 ## News 
