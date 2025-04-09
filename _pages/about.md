@@ -14,7 +14,6 @@ From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn
 
 My research interests are in reinforcement learning and related areas, including reward learning, preference learning, and the intersection of machine learning with game theory and mechanism design.
 
-You can reach me at tbuening@turing.ac.uk or thomas.kleinebuening@cs.ox.ac.uk.
 
 
 ## News 
@@ -48,4 +47,5 @@ ICLR 2024, <span style="color:red">Spotlight Presentation</span>
 
 
 
+You can reach me at tbuening@turing.ac.uk or thomas.kleinebuening@cs.ox.ac.uk.
 
