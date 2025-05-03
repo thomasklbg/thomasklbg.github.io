@@ -12,7 +12,7 @@ author_profile: true
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-preprint 
+working paper  
 
 * **A Unifying Framework for Causal Imitation Learning with Hidden Confounders** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, *Thomas Kleine Buening*, Marta Kwiatkowska <br />
