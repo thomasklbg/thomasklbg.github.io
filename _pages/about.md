@@ -17,9 +17,9 @@ My research interests are in reinforcement learning and related areas, including
 
 
 ## News 
-- **04/2025**: The second edition of last year's workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2025){:target="_blank"} will take place at ICML 2025 in Vancouver! [Call for Papers](https://sites.google.com/view/mhf-icml2025/call-for-papers)
+- **04/2025**: The second edition of last year's workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2025){:target="_blank"} will take place at ICML 2025 in Vancouver! Submission Deadline May 25th ([Call for Papers](https://sites.google.com/view/mhf-icml2025/call-for-papers))!
 - **03/2025**: We released three new preprints on [Strategyproof RLHF](https://arxiv.org/pdf/2503.09561){:target="_blank"}, [Causal Imitation Learning](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent Cooperative RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
-- **11/2024**: I'm visiting Haifeng Xu's group at the University of Chicago and will give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5th at the CS Department.  
+- **11/2024**: I'm visiting Haifeng Xu's group at the University of Chicago. I'll give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5th at the CS Department.  
 - **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
 
 
@@ -39,10 +39,6 @@ NeurIPS 2024
 Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
 ICML 2024, <span style="color:red">Oral Presentation</span>
 
-
-* **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
-Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-ICLR 2024, <span style="color:red">Spotlight Presentation</span>
 
 
 
