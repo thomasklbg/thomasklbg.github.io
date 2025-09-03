@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-I'm a Postdoctoral Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} 
-and an Associate Member of the Department of Computer Science at the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, where I'm mentored by [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
+--- 
+I'm a Postdoctoral Fellow '25 at the ETH AI Center, mentored by Andreas Krause and Giorgia Ramponi. Before that I was at [The Alan Turing Institute](https://www.turing.ac.uk/){:target="_blank"} 
+and the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"} working with [Marta Kwiatkowska](https://www.trinity.ox.ac.uk/people/marta-kwiatkowska){:target="_blank"} and 
 [Lukasz Szpruch](https://scholar.google.com/citations?hl=en&user=ljeA6CMAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. 
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
@@ -23,7 +23,7 @@ My research interests are in reinforcement learning and related areas, including
 - **07/2024**: We're organizing the ICML 2024 Workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2024){:target="_blank"}. 09/2024: Recordings are now available [here](https://icml.cc/virtual/2024/workshop/29943){:target="_blank"}.
 
 
-## Selected Publications  
+## Selected Publications 
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
@@ -42,5 +42,5 @@ ICML 2024, <span style="color:red">Oral Presentation</span>
 
 
 
-You can reach me at tbuening@turing.ac.uk or thomas.kleinebuening@cs.ox.ac.uk.
+You can reach me at thomas.kleinebuening@ai.ethz.ch. 
 

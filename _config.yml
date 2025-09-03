@@ -83,11 +83,11 @@ author:
   name             : 
   avatar           : "Picture.jpg"
   bio              : 
-  location         : "Oxford, United Kingdom"
-  employer         : "The Alan Turing Institute"
+  location         : "Zürich, Switzerland"
+  employer         : "ETH Zürich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works"
-  email            : "tbuening@turing.ac.uk"
+  email            : "thomas.kleinebuening@ai.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
