@@ -10,7 +10,7 @@ author_profile: true
 ## 2025 
 
 * **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br /> 
-Barna Pásztor, Thomas Kleine Buening, Andreas Krause <br />
+Barna Pásztor, *Thomas Kleine Buening*, Andreas Krause <br />
 Preliminary version at EWRL 2025 
 
 
