@@ -18,15 +18,15 @@ My research interests are in reinforcement learning and related areas, including
 
 ## News 
 - **04/2025**: The 2nd Edition of last year's workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2025){:target="_blank"} is taking place on July 18th at ICML 2025! [Submission Deadline is May 25th!](https://sites.google.com/view/mhf-icml2025/call-for-papers)
-- **03/2025**: We released three new preprints on [Strategyproof RLHF](https://arxiv.org/pdf/2503.09561){:target="_blank"}, [Causal Imitation Learning](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent Cooperative RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
-- **11/2024**: I'm visiting [Haifeng Xu](https://www.haifeng-xu.com/){:target="_blank"}'s group at the University of Chicago. I'll give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5th at the CS Department.  
+- **03/2025**: We released three new preprints on [Strategyproof RLHF](https://arxiv.org/pdf/2503.09561){:target="_blank"}, [Causal Imitation Learning](https://arxiv.org/pdf/2502.07656){:target="_blank"} and [Multi-Agent RL](https://arxiv.org/pdf/2502.02377){:target="_blank"}.  
+- **12/2024**: I'm visiting [Haifeng Xu](https://www.haifeng-xu.com/){:target="_blank"}'s group at the University of Chicago. I'll give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5th at the CS Department.  
 
 
 ## Selected Publications 
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-working paper  
+NeurIPS 2025 
 
 
 * **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
