@@ -12,8 +12,7 @@ and the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, work
 From 2021 to 2024, I did my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"}, supervised by [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}, and previously studied Mathematics (BSc, MSc).      
 
 
-My research interests are in reinforcement learning and related areas, including reward learning, preference learning, and the intersection of machine learning with game theory and mechanism design.
-
+My research interests are in reinforcement learning and related areas, including reward learning, preference learning, and the intersection of machine learning with game theory and mechanism design. Currently, I’m particularly interested in applying these ideas to LLM training and alignment.
 
 
 ## News 
