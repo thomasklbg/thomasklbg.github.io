@@ -22,8 +22,3 @@ My research interests are in reinforcement learning and related areas, including
 
 
 
-
-
-
-You can reach me at thomas.kleinebuening@ai.ethz.ch. 
-
