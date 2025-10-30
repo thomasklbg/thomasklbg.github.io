@@ -21,21 +21,6 @@ My research interests are in reinforcement learning and related areas, including
 - **12/2024**: I'm visiting [Haifeng Xu](https://www.haifeng-xu.com/){:target="_blank"}'s group at the University of Chicago. I'll give a talk on [Strategic Interactive Decision-Making](https://cs.uchicago.edu/events/event/thomas-kleine-buening-oxford-strategic-interactive-decision-making/) on December 5th at the CS Department.  
 
 
-## Selected Publications 
-
-* **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
-Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
-NeurIPS 2025 
-
-
-* **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2406.00551){:target="_blank"}] <br />
-Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-NeurIPS 2024
-
-
-* **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
-Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
-ICML 2024, <span style="color:red">Oral Presentation</span>
 
 
 
