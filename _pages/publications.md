@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2025 
 
-* **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br /> 
+* **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/pdf?id=If5eE5hCB5){:target="_blank"}] <br /> 
 Barna Pásztor, *Thomas Kleine Buening*, Andreas Krause <br />
 Preliminary version at EWRL 2025 
 
@@ -30,7 +30,7 @@ AAMAS 2025
 ## 2024 
 
 
-* **Strategic Linear Contextual Bandits** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
+* **Strategic Linear Contextual Bandits** [[pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/d390199c28b467315b454789b6584f19-Paper-Conference.pdf){:target="_blank"}] <br />
 *Thomas Kleine Buening*, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
 NeurIPS 2024
 
