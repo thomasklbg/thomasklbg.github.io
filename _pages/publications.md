@@ -19,6 +19,10 @@ ICLR 2026
 Daqian Shao, Thomas Kleine Buening, Marta Kwiatkowska <br />
 ICLR 2026
 
+* **Data Source Adaptive Online Learning under Heteroscedastic Noise** [[pdf](https://openreview.net/pdf?id=b0XVezJTI8){:target="_blank"}] <br />
+Amith Anan, Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo <br /> 
+OPT 2025: 17th Annual Workshop on Optimization for Machine Learing
+
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
 NeurIPS 2025 
