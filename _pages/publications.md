@@ -8,25 +8,40 @@ author_profile: true
 <span style="font-size:16px;">$^\star$ equal contribution</span>
 
 
-## 2025 
+## 2026 
+
+
+* **Reinforcement Learning via Self-Distillation** [[pdf](https://arxiv.org/pdf/2601.20802){:target="_blank"}]  <br />
+Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
+Preprint 
+
+
 
 * **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/pdf?id=If5eE5hCB5){:target="_blank"}] <br /> 
 Barna Pásztor, Thomas Kleine Buening, Andreas Krause <br />
 ICLR 2026
 
 
-* **A Unifying Framework for Causal Imitation Learning with Hidden Confounders** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
+* **Causal Imitation Learning under Expert-Observable and Expert-Unobservable Confounding** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, Thomas Kleine Buening, Marta Kwiatkowska <br />
 ICLR 2026
 
-* **Data Source Adaptive Online Learning under Heteroscedastic Noise** [[pdf](https://openreview.net/pdf?id=b0XVezJTI8){:target="_blank"}] <br />
-Amith Anan, Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo <br /> 
-OPT 2025: 17th Annual Workshop on Optimization for Machine Learing
+
+
+## 2025 
+
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
 Thomas Kleine Buening, Jiarui Gan, Debmalya Mandal, Marta Kwiatkowska <br />
 NeurIPS 2025 
  
+ 
+
+* **Data Source Adaptive Online Learning under Heteroscedastic Noise** [[pdf](https://openreview.net/pdf?id=b0XVezJTI8){:target="_blank"}] <br />
+Amith Anan, Aadirupa Saha, Thomas Kleine Buening, Haipeng Luo <br /> 
+OPT 2025: 17th Annual Workshop on Optimization for Machine Learing
+
+
 
 * **A Minimax Approach to Ad Hoc Teamwork** [[pdf](https://arxiv.org/pdf/2502.02377){:target="_blank"}] <br />
 Victor Villin, Thomas Kleine Buening, Christos Dimitrakakis <br />
