@@ -10,11 +10,19 @@ author_profile: true
 
 ## 2026 
 
+* **Aligning Language Models from User Interactions** [[pdf](http://thomasklbg.github.io/files/Aligning_Language_Models_from_User_Interactions.pdf){:target="_blank"}]  <br />
+Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
+
+
 
 * **Reinforcement Learning via Self-Distillation** [[pdf](https://arxiv.org/pdf/2601.20802){:target="_blank"}]  <br />
 Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
-Preprint 
+ 
 
+
+* **MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference** [[pdf](https://www.arxiv.org/pdf/2602.15206){:target="_blank"}]  <br />
+Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening  <br />
+ 
 
 
 * **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/pdf?id=If5eE5hCB5){:target="_blank"}] <br /> 
