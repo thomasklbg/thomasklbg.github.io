@@ -25,7 +25,7 @@ Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Th
  
 
 
-* **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/pdf?id=If5eE5hCB5){:target="_blank"}] <br /> 
+* **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/forum?id=vc9Tj11LNE&referrer=%5B){:target="_blank"}] <br /> 
 Barna Pásztor, Thomas Kleine Buening, Andreas Krause <br />
 ICLR 2026
 
