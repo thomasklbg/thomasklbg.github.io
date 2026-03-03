@@ -25,6 +25,11 @@ Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Th
  
 
 
+
+## 2025 
+
+
+
 * **Stackelberg Learning from Human Feedback: Preference Optimization as a Sequential Game** [[pdf](https://openreview.net/forum?id=vc9Tj11LNE&referrer=%5B){:target="_blank"}] <br /> 
 Barna Pásztor, Thomas Kleine Buening, Andreas Krause <br />
 ICLR 2026
@@ -33,10 +38,6 @@ ICLR 2026
 * **Causal Imitation Learning under Expert-Observable and Expert-Unobservable Confounding** [[pdf](https://arxiv.org/pdf/2502.07656){:target="_blank"}] <br />
 Daqian Shao, Thomas Kleine Buening, Marta Kwiatkowska <br />
 ICLR 2026
-
-
-
-## 2025 
 
 
 * **Strategyproof Reinforcement Learning from Human Feedback** [[pdf](https://arxiv.org/pdf/2503.09561){:target="_blank"}] <br />
