@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2026 
 
-* **Aligning Language Models from User Interactions** [[pdf](http://thomasklbg.github.io/files/Aligning_Language_Models_from_User_Interactions.pdf){:target="_blank"}]  <br />
+* **Aligning Language Models from User Interactions** [[pdf](https://arxiv.org/pdf/2603.12273){:target="_blank"}]  <br />
 Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
 
 
