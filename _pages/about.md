@@ -12,5 +12,4 @@ and the [University of Oxford](https://www.cs.ox.ac.uk/){:target="_blank"}, work
 From 2021 to 2024, I completed my PhD at the [University of Oslo](https://www.mn.uio.no/ifi/english/){:target="_blank"} with [Christos Dimitrakakis](https://sites.google.com/site/christosdimitrakakis){:target="_blank"}.     
 
 
-I work on reinforcement learning and related areas, including reward learning, preference learning, and game-theoretic approaches to problems in machine learning. Currently, I’m particularly interested in applying ideas from these areas to LLM post-training.
-
+I work on reinforcement learning and related areas, including reward learning, preference learning, and game-theoretic approaches to problems in machine learning. 
