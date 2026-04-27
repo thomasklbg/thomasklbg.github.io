@@ -14,14 +14,13 @@ author_profile: true
 Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
 
 
+* **MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference** [[pdf](https://www.arxiv.org/pdf/2602.15206){:target="_blank"}]  <br />
+Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening  <br />
+
 
 * **Reinforcement Learning via Self-Distillation** [[pdf](https://arxiv.org/pdf/2601.20802){:target="_blank"}]  <br />
 Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
 <span style="color:red">Oral Presentation at SPOT Workshop and TTU Workshop (ICLR 2026)</span>
-
-
-* **MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference** [[pdf](https://www.arxiv.org/pdf/2602.15206){:target="_blank"}]  <br />
-Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening  <br />
  
 
 
