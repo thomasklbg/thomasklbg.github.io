@@ -20,7 +20,7 @@ Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Th
 
 * **Reinforcement Learning via Self-Distillation** [[pdf](https://arxiv.org/pdf/2601.20802){:target="_blank"}]  <br />
 Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
-<span style="color:red">Oral Presentation at SPOT Workshop and TTU Workshop (ICLR 2026)</span>
+<span style="color:red">Best Paper Award at the TTU Workshop (ICLR 2026)</span>
  
 
 
