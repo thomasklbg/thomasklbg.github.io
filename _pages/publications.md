@@ -11,16 +11,17 @@ author_profile: true
 ## 2026 
 
 * **Aligning Language Models from User Interactions** [[pdf](https://arxiv.org/pdf/2603.12273){:target="_blank"}]  <br />
-Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
+Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause 
 
 
 * **MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference** [[pdf](https://www.arxiv.org/pdf/2602.15206){:target="_blank"}]  <br />
 Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening  <br />
+ICML 2026 
 
 
 * **Reinforcement Learning via Self-Distillation** [[pdf](https://arxiv.org/pdf/2601.20802){:target="_blank"}]  <br />
 Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
-<span style="color:red">Best Paper Award at the TTU Workshop (ICLR 2026)</span>
+ICML 2026, <span style="color:red">Best Paper Award at the TTU Workshop (ICLR 2026)</span>
  
 
 
@@ -65,11 +66,11 @@ NeurIPS 2024
 
 * **Environment Design for Inverse Reinforcement Learning** [[pdf](https://arxiv.org/pdf/2210.14972v3){:target="_blank"}] <br /> 
 Thomas Kleine Buening$^\star$, Victor Villin$^\star$, Christos Dimitrakakis <br /> 
-ICML 2024, <span style="color:red">Oral Presentation (1.5%)</span>
+ICML 2024, <span style="color:red">Oral Presentation</span>
 
 * **Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation** [[pdf](https://arxiv.org/pdf/2311.15647.pdf){:target="_blank"}] <br />
 Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu <br />
-ICLR 2024, <span style="color:red">Spotlight Presentation (5%)</span>
+ICLR 2024, <span style="color:red">Spotlight Presentation</span>
 
 
 ## 2023 
@@ -89,7 +90,7 @@ AISTATS 2023
 
 * **Interactive Inverse Reinforcement Learning for Cooperative Games** [[pdf](https://proceedings.mlr.press/v162/buning22a/buning22a.pdf){:target="_blank"}] <br /> 
 Thomas Kleine Buening, Anne-Marie George, Christos Dimitrakakis <br /> 
-ICML 2022, <span style="color:red">Best Paper Award at the [Cooperative AI Workshop (NeurIPS 2021)](https://www.cooperativeai.com/workshop/neurips-2021){:target:"_blank"}</span>
+ICML 2022, <span style="color:red">Best Paper Award at the <a href="https://www.cooperativeai.com/workshop/neurips-2021" target="_blank" style="color:red; text-decoration:none;">Cooperative AI Workshop (NeurIPS 2021)</a></span>
 
 
 * **On Meritocracy in Optimal Set Selection** [[pdf](https://arxiv.org/pdf/2102.11932.pdf){:target="_blank"}] <br /> 
