@@ -12,6 +12,7 @@ author_profile: true
 
 * **<a href="https://arxiv.org/abs/2603.12273" target="_blank" style="color:black; text-decoration:none;">Aligning Language Models from User Interactions</a>** [[paper](https://arxiv.org/abs/2603.12273){:target="_blank"}, [project](https://self-distillation.github.io/user_interactions.html){:target="_blank"}, [code](https://github.com/lasgroup/user_interactions){:target="_blank"}]  <br />
 Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause 
+Preprint, <span style="color:red">Oral Presentation at the Continual Adaptation at Scale Workshop (ICML 2026)</span>
 
 
 * **<a href="https://www.arxiv.org/abs/2602.15206" target="_blank" style="color:black; text-decoration:none;">MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference</a>** [[paper](https://www.arxiv.org/abs/2602.15206){:target="_blank"}]  <br />
@@ -21,7 +22,7 @@ ICML 2026
 
 * **<a href="https://arxiv.org/abs/2601.20802" target="_blank" style="color:black; text-decoration:none;">Reinforcement Learning via Self-Distillation</a>** [[paper](https://arxiv.org/abs/2601.20802){:target="_blank"}, [project](https://self-distillation.github.io/SDPO.html){:target="_blank"}, [code](https://github.com/lasgroup/SDPO){:target="_blank"}]  <br />
 Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause <br />
-ICML 2026, <span style="color:red">Best Paper Award at the TTU Workshop (ICLR 2026)</span>
+ICML 2026, <span style="color:red">Best Paper Award at the Test-Time Updates Workshop (ICLR 2026)</span>
  
 
 
