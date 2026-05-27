@@ -11,12 +11,12 @@ author_profile: true
 ## 2026 
 
 * **<a href="https://arxiv.org/abs/2603.12273" target="_blank" style="color:black; text-decoration:none;">Aligning Language Models from User Interactions</a>** [[paper](https://arxiv.org/abs/2603.12273){:target="_blank"}, [project](https://self-distillation.github.io/user_interactions.html){:target="_blank"}, [code](https://github.com/lasgroup/user_interactions){:target="_blank"}]  <br />
-Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause 
+Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
 Preprint, <span style="color:red">Oral Presentation at the Continual Adaptation at Scale Workshop (ICML 2026)</span>
 
 
 * **<a href="https://www.arxiv.org/abs/2602.15206" target="_blank" style="color:black; text-decoration:none;">MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference</a>** [[paper](https://www.arxiv.org/abs/2602.15206){:target="_blank"}]  <br />
-Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening  <br />
+Raphaël Baur, Yannick Metz, Maria Gkoulta, Menna El-Assady, Giorgia Ramponi, Thomas Kleine Buening <br />
 ICML 2026 
 
 
