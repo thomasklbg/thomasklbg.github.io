@@ -1,0 +1,119 @@
+/* Publication styles are scoped to this page. */
+.publications {
+  --publication-muted: #616970;
+  --publication-ink: #252c32;
+}
+
+.publications .publications-note {
+  color: var(--publication-muted);
+  font-size: 0.7em;
+  margin: 0 0 2em;
+}
+
+.publications .publication-year > h2 {
+  font-size: 1.1em;
+  margin: 2em 0 0;
+  padding-bottom: 0.55em;
+  border-bottom: 2px solid #dfe4e7;
+}
+
+.publications .publication-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.publications .publication {
+  padding: 1.3em 0;
+  margin: 0;
+  border-bottom: 1px solid #edf0f2;
+}
+
+.publications .publication:last-child {
+  border-bottom: 0;
+}
+
+.publications .publication-title {
+  margin: 0 0 0.45em;
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.publications .publication-title a {
+  color: var(--publication-ink);
+  text-decoration: none;
+}
+
+.publications .publication-title a:hover {
+  color: #276b87;
+  text-decoration: underline;
+}
+
+.publications .publication-authors {
+  margin: 0 0 0.75em;
+  color: var(--publication-muted);
+  font-size: 0.72em;
+  line-height: 1.65;
+}
+
+.publications .publication-authors strong {
+  color: #39434b;
+  font-weight: 600;
+}
+
+.publications .publication-footer {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6em 1.2em;
+  font-size: 0.72em;
+}
+
+.publications .publication-venue {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--publication-ink);
+}
+
+.publications .publication-distinction {
+  display: block;
+  color: #975026;
+  font-weight: 400;
+}
+
+.publications .publication-award-link {
+  color: inherit;
+}
+
+.publications .publication-links {
+  display: flex;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.publications .publication-links a {
+  color: #276b87;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.publications a:focus-visible {
+  outline: 2px solid #276b87;
+  outline-offset: 4px;
+}
+
+@media (max-width: 600px) {
+  .publications .publication-footer {
+    flex-direction: column;
+    gap: 0.6em;
+  }
+
+  .publications .publication-authors,
+  .publications .publication-footer {
+    font-size: 0.8em;
+  }
+}

@@ -1,0 +1,11 @@
+/* Link styling only; retain the landing page's original typography. */
+.page__content .about-profile a,
+.page__content .about-profile a:hover {
+  color: #276b87;
+  text-decoration: none;
+}
+
+.page__content .about-profile a:focus-visible {
+  outline: 2px solid #276b87;
+  outline-offset: 4px;
+}
