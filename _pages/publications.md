@@ -10,9 +10,19 @@ author_profile: true
 
 ## 2026 
 
+* **<a href="https://arxiv.org/abs/2609.21561" target="_blank" style="color:black; text-decoration:none;">On Repulsive and Attractive Teachers: Separating Correctness from Behavior in Self-Distillation</a>** [[paper](https://arxiv.org/abs/2609.21561){:target="_blank"}, [blog](https://self-distillation.github.io/repulsive_attractive.html){:target="_blank"}]  <br />
+Anton Baumann, Akmal Ashirmatov, Leo Schmidt-Traub, Frederike Lübeck, Jonas Hübotter, Thomas Kleine Buening, Andreas Krause <br />
+Preprint
+
+
+* **<a href="https://arxiv.org/abs/2607.15277" target="_blank" style="color:black; text-decoration:none;">Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models</a>** [[paper](https://arxiv.org/abs/2607.15277){:target="_blank"}, [project](https://patrikwolf.github.io/projects/self-consistency/){:target="_blank"}, [code](https://github.com/patrikwolf/statistical_self_consistency){:target="_blank"}]  <br />
+Patrik Wolf, Thomas Kleine Buening, Andreas Krause, Celestine Mendler-Dünner <br />
+NeurIPS 2026
+
+
 * **<a href="https://arxiv.org/abs/2603.12273" target="_blank" style="color:black; text-decoration:none;">Aligning Language Models from User Interactions</a>** [[paper](https://arxiv.org/abs/2603.12273){:target="_blank"}, [project](https://self-distillation.github.io/user_interactions.html){:target="_blank"}, [code](https://github.com/lasgroup/user_interactions){:target="_blank"}]  <br />
 Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Giorgia Ramponi, Andreas Krause <br />
-Preprint, <span style="color:red">Oral Presentation at the Continual Adaptation at Scale Workshop (ICML 2026)</span>
+COLM 2026, <span style="color:red">Oral Presentation at the Continual Adaptation at Scale Workshop (ICML 2026)</span>
 
 
 * **<a href="https://www.arxiv.org/abs/2602.15206" target="_blank" style="color:black; text-decoration:none;">MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference</a>** [[paper](https://www.arxiv.org/abs/2602.15206){:target="_blank"}]  <br />
