@@ -83,11 +83,11 @@ author:
   name             : 
   avatar           : "Picture.jpg"
   bio              : 
-  location         : "Zürich, Switzerland"
-  employer         : "ETH Zürich"
+  location         : "Zurich, Switzerland"
+  employer         : "Noeri"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1VT2sBgAAAAJ&view_op=list_works"
-  email            : "thomas.kleinebuening@ai.ethz.ch"
+  email            : "thomas@noeri.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
