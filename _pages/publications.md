@@ -13,6 +13,16 @@ author_profile: true
 <h2 id="year-2026">2026</h2>
 <ul class="publication-list">
 <li class="publication">
+<h3 class="publication-title"><a href="https://arxiv.org/abs/2610.15542" target="_blank" rel="noopener">Apertus 1.5: From Open Text Models to Open Multimodal Reasoners</a></h3>
+<p class="publication-authors">Team Apertus</p>
+<div class="publication-footer">
+<p class="publication-venue">Preprint</p>
+<div class="publication-links" aria-label="Publication resources">
+<a href="https://arxiv.org/abs/2610.15542" target="_blank" rel="noopener">Paper</a>
+</div>
+</div>
+</li>
+<li class="publication">
 <h3 class="publication-title"><a href="https://arxiv.org/abs/2609.21561" target="_blank" rel="noopener">On Repulsive and Attractive Teachers: Separating Correctness from Behavior in Self-Distillation</a></h3>
 <p class="publication-authors">Anton Baumann, Akmal Ashirmatov, Leo Schmidt-Traub, Frederike Lübeck, Jonas Hübotter, <strong>Thomas Kleine Buening</strong>, Andreas Krause</p>
 <div class="publication-footer">
