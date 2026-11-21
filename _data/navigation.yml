@@ -18,8 +18,3 @@ main:
     
   #- title: "Service"
    # url: /service/
-  
- 
-  - title: "CV"
-    url: "http://thomasklbg.github.io/files/CV_September_2025.pdf"
-    external: true  # Ensures it opens in a new tab
